@@ -20,8 +20,8 @@ define('USERS_FOLDER','users/');
 
 //sendgrid api key
 
-define('SENDGRID_API_KEY',"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");
-define('SENDGRID_EMAIL',"chaudharyveer1107@gmail.com");
+define('SENDGRID_API_KEY',"YOUR_API_KEY");
+define('SENDGRID_EMAIL',"YOUR_REGISTERED_EMAIL");
 define('SENDGRID_NAME',"Virendra");
 
 function adminLogin(){
